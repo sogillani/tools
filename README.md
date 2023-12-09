@@ -43,3 +43,19 @@ fzf-zsh-completions https://github.com/chitoku-k/fzf-zsh-completions.git
 ##### Theme
 
 powerlevel10k https://github.com/romkatv/powerlevel10k
+
+
+### Setup git
+
+1. Set username and email
+
+`git config --global user.name "Your name here"`
+
+`git config --global user.email "your_email@example.com"`
+
+
+2. Setup SSH key for github
+
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
+
